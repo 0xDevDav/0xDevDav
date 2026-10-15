@@ -1,40 +1,67 @@
-# Hi, I'm 0xDevDav
+<!-- Graphics generated from strumenti/github-profilo/sorgente: do not edit the SVGs by hand. -->
 
-Italian developer. I build desktop apps, engineering tools and automation, usually to solve a specific problem I ran into myself.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="0xDevDav: developer in Italy. I build the tools I wish existed.">
+</picture>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<a href="https://github.com/0xDevDav/zoe">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/zoe-dark.svg">
+  <img src="assets/zoe-light.svg" width="100%" alt="Zoe, my flagship project: a personal assistant on Telegram with a brain of her own, who improves herself while you sleep.">
+</picture>
+</a>
 
-## Projects
+<a href="https://profm.it">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profm-dark.svg">
+  <img src="assets/profm-light.svg" width="100%" alt="PrOFM, the creator management agency I founded in Italy.">
+</picture>
+</a>
 
-**[Harness Designer](https://github.com/0xDevDav/harness-designer)**
-Draw automotive wiring harnesses the way the workshop expects them. Static site, no backend, no runtime dependencies. TypeScript.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titolo-progetti-dark.svg">
+  <img src="assets/titolo-progetti-light.svg" width="100%" alt="More things I built">
+</picture>
 
-**[DevXplorer](https://github.com/0xDevDav/devxplorer)**
-A file manager for Windows with the look and feel of the Mac's Finder and Quick Look. Electron.
+<a href="https://github.com/0xDevDav/harness-designer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/harness-designer-dark.svg">
+  <img src="assets/harness-designer-light.svg" width="100%" alt="Harness Designer: automotive wiring harnesses drawn the way the workshop expects them.">
+</picture>
+</a>
 
-**[EWSync](https://github.com/0xDevDav/EWSync)**
-BMW EWS/DME ISN synchronization over K-Line using the DS2 protocol. Python.
+<a href="https://github.com/0xDevDav/devxplorer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/devxplorer-dark.svg">
+  <img src="assets/devxplorer-light.svg" width="100%" alt="DevXplorer: a file manager for Windows with the look and feel of the Mac's Finder and Quick Look.">
+</picture>
+</a>
 
-**[Harness Designer Plugins](https://github.com/0xDevDav/harness-designer-plugins)**
-Commands, validation rules, exporters, connector symbols and colour palettes for Harness Designer.
+<a href="https://github.com/0xDevDav/EWSync">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ewsync-dark.svg">
+  <img src="assets/ewsync-light.svg" width="100%" alt="EWSync: BMW EWS and DME ISN synchronization over K-Line with DS2.">
+</picture>
+</a>
 
-**[DSH Addons](https://github.com/0xDevDav/dsh-addons)**
-Italian language pack and cost tracking for the DeepSeek Harness Web GUI.
+<a href="https://github.com/0xDevDav/dsh-addons">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dsh-addons-dark.svg">
+  <img src="assets/dsh-addons-light.svg" width="100%" alt="DSH Addons: Italian language pack and cost tracking for the DeepSeek Harness web GUI.">
+</picture>
+</a>
 
-## What I work on
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="What I work with: TypeScript, Python, JavaScript, C++, Electron, Qt, Node.js, Claude Code, Telegram bots, Chrome extensions, Playwright, ECU diagnostics, K-Line, DS2, wiring harnesses.">
+</picture>
 
-- Desktop applications for Windows with Electron, Qt and C++
-- Automotive diagnostics and wiring: ECU communication, K-Line, DS2, harness design
-- Telegram bots, browser extensions and workflow automation
-- Small static web tools that don't need a backend
+<p align="center">
+  Write to me on <a href="https://t.me/Devdaatson">Telegram</a> or open an issue on any project.
+</p>
 
-## Contact
-
-Open an issue on any project or write to me on [Telegram](https://t.me/Devdaatson).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="Il buon business è la forma d'arte più alta. Good business is the highest form of art.">
+</picture>
