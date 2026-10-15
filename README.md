@@ -12,13 +12,6 @@
 </picture>
 </a>
 
-<a href="https://profm.it">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profm-dark.svg">
-  <img src="assets/profm-light.svg" width="100%" alt="PrOFM, the creator management agency I founded in Italy.">
-</picture>
-</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/titolo-progetti-dark.svg">
   <img src="assets/titolo-progetti-light.svg" width="100%" alt="More things I built">
