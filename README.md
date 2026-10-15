@@ -57,10 +57,12 @@
   <img src="assets/stack-light.svg" width="100%" alt="What I work with: TypeScript, Python, JavaScript, C++, Electron, Qt, Node.js, Claude Code, Telegram bots, Chrome extensions, Playwright, ECU diagnostics, K-Line, DS2, wiring harnesses.">
 </picture>
 
-<p align="center">
-  Write to me on <a href="https://t.me/Devdaatson">Telegram</a> or open an issue on any project.
-</p>
-
+<a href="https://t.me/Devdaatson">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contatti-dark.svg">
+  <img src="assets/contatti-light.svg" width="100%" alt="Let's talk: write to me on Telegram, @Devdaatson.">
+</picture>
+</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
   <img src="assets/footer-light.svg" width="100%" alt="Il buon business è la forma d'arte più alta. Good business is the highest form of art.">
